@@ -3,6 +3,7 @@ public class abc {
     public void Chen(){
         System.out.println("6666");
         System.out.println("12344");
+        System.out.println("123456789");
         System.out.println("123");
         System.out.println("666");
     }
